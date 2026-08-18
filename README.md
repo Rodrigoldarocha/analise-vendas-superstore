@@ -38,5 +38,20 @@ O dataset contém informações sobre pedidos, clientes, produtos, categorias, r
 
 ## 📁 Estrutura do Projeto
 ```text
-├── notebook.ipynb        # Notebook principal com a análise completa
-├── README.md             # Documentação do projeto
+├── Análise_Exploratória_de_Vendas_—_Superstore_Sales.ipynb   # notebook principal
+├── README.md                                                 # Documentação do projeto
+```
+
+---
+
+## ▶️ Como executar
+
+1. Abra o notebook no **Google Colab** ou Jupyter
+2. Execute as células em ordem — o dataset é carregado automaticamente via KaggleHub
+3. As análises e visualizações são geradas ao final
+
+---
+
+## 👨‍💻 Autor
+
+**Rodrigo Rocha** — [GitHub](https://github.com/Rodrigoldarocha) · [LinkedIn](https://www.linkedin.com/in/rodrigo-rocha-19249170/)
